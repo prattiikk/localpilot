@@ -1,6 +1,6 @@
-# lama README
+# localpilot README
 
-This is the README for your extension "lama". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "localpilot". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
