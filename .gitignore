@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# VSCode
+.vscode/
+.vscode-test/
+.vscode-oss/
+.vscode-insiders/
+
+# Build output
+out/
+dist/
+build/
+coverage/
+
+# Dependency directories
+**/node_modules/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Tyepscript compiled JavaScript files
+*.js
+*.map
+
+# Generated files
+*.tgz
+*.tgz.*
+
+# Testing
+test-results/
+test-reports/
+
+# IDE-specific config files
+.idea/
+
+# VSCode extension specific
+.vscode/extensions/
+
+# Package manager specific files (if using pnpm)
+.pnpm/
+
+# Files related to other environments like Docker (if applicable)
+.docker/
